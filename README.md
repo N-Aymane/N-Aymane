@@ -92,3 +92,16 @@ I build modern, lean software with respect for the user and the team maintaining
     <img src="https://img.shields.io/badge/Last%20Updated-2025--12--06-1a1f2b?style=flat&logo=github&logoColor=7aa2f7" alt="Last updated" />
   </p>
 </details>
+
+---
+
+### Live Stats
+<p align="center">
+  <img
+    src="https://metrics.lecoq.io/N-Aymane?template=classic&isometric=1&isometric.year=full&isometric.timezone=Africa%2FCasablanca&languages=1&languages.limit=8&languages.analysis.timeout=15&languages.ignored=Jupyter%20Notebook&languages.colors=github&topics=1&followup=1&achievements=1&notable=1&pagespeed=1&pagespeed.url=https%3A%2F%2FN-Aymane.github.io&pagespeed.detailed=false&pagespeed.screenshot=false"
+    alt="Live metrics graph"
+    width="960"
+  />
+  <br/>
+  <sub>Generated in real-time via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>. Refreshes automatically.</sub>
+</p>
