@@ -86,16 +86,17 @@ I build modern, lean software with respect for the user and the team maintaining
 
 ### Live Stats
 <p align="center">
-  <img
-    src="https://metrics.lecoq.io/N-Aymane?template=classic&isometric=1&isometric.year=full&isometric.timezone=Africa%2FCasablanca&languages=1&languages.limit=8&languages.analysis.timeout=15&languages.ignored=Jupyter%20Notebook&languages.colors=github&topics=1&followup=1&achievements=1&notable=1&cache=3600"
-    alt="Live metrics graph"
-    width="960"
-  />
+  <a href="./docs/metrics.svg">
+    <img
+      src="./docs/metrics.svg"
+      alt="Live metrics graph"
+      width="720"
+    />
+  </a>
   <br/>
-  <sub>Real-time metrics powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
+  <sub>Generated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
 </p>
 
-<!-- Fallback counters if image is rate-limited -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/N-Aymane?style=flat&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/N-Aymane?style=flat&label=Stars" alt="Stars" />
