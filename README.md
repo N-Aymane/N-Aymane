@@ -1,17 +1,17 @@
 <!--
   Modern, sober GitHub Profile README for N-Aymane
-  Balanced typography, accessible contrast, subtle iconography.
+  Balanced typography, accessible contrast, subtle iconography. 
 -->
 
 <!-- Banner / Hero -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Clean%20Architecture-0f1115?style=for-the-badge&logo=abstract&logoColor=7aa2f7" alt="Focus: Clean Architecture" />
-  <img src="https://img.shields.io/badge/Values-Accessibility%20%7C%20Performance-0f1115?style=for-the-badge&logo=accessibility&logoColor=7aa2f7" alt="Values: Accessibility & Performance" />
+  <img src="https://img.shields.io/badge/Focus-Clean%20Architecture-0f1115?style=for-the-badge&logo=abstract&logoColor=7aa2f7" alt="Focus:  Clean Architecture" />
+  <img src="https://img.shields.io/badge/Values-Accessibility%20%7C%20Performance-0f1115?style=for-the-badge&logo=accessibility&logoColor=7aa2f7" alt="Values:  Accessibility & Performance" />
 </div>
 
 <h1 align="center">Aymane — Building sober, modern software</h1>
 <p align="center">
-  Thoughtful systems, clear interfaces, accessible UX. Fewer dependencies, more maintainability.
+  Thoughtful systems, clear interfaces, accessible UX.  Fewer dependencies, more maintainability.
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ---
 
 ### About
-I build modern, lean software with respect for the user and the team maintaining it. My priorities:
+I build modern, lean software with respect for the user and the team maintaining it. My priorities: 
 
 - Calm, readable code with clear boundaries
 - Accessibility by default (contrast, keyboard nav, semantics)
@@ -33,15 +33,57 @@ I build modern, lean software with respect for the user and the team maintaining
 
 ---
 
+### 📊 GitHub Statistics
+
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats. vercel.app/api?username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&icon_color=7aa2f7&text_color=e6e8ee&count_private=true" alt="GitHub Stats" height="180" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats. vercel.app/api/top-langs/? username=N-Aymane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&text_color=e6e8ee&langs_count=8" alt="Top Languages" height="180" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/? user=N-Aymane&theme=tokyonight&hide_border=true&background=0f1115&stroke=7aa2f7&ring=7aa2f7&fire=ff6b6b&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+  
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph. vercel.app/graph?username=N-Aymane&theme=tokyo-night&hide_border=true&bg_color=0f1115&color=7aa2f7&line=7aa2f7&point=e6e8ee&area=true&area_color=7aa2f7" alt="Contribution Graph" width="100%" />
+  
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/? username=N-Aymane&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  
+</div>
+
+---
+
 ### Skills
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E? logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Go-00ADD8? logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node. js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next. js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" />
@@ -56,8 +98,8 @@ I build modern, lean software with respect for the user and the team maintaining
 
 ### Highlights
 - Designed small, composable services with strong typing and minimal debt.
-- Cut build times and bundle sizes via disciplined dependencies and profiling.
-- Delivered accessible UIs: semantic HTML, focus management, screen reader support.
+- Cut build times and bundle sizes via disciplined dependencies and profiling. 
+- Delivered accessible UIs: semantic HTML, focus management, screen reader support. 
 
 ---
 
@@ -79,33 +121,46 @@ I build modern, lean software with respect for the user and the team maintaining
 ---
 
 ### Contact
-- GitHub: [@N-Aymane](https://github.com/N-Aymane)
+- GitHub:  [@N-Aymane](https://github.com/N-Aymane)
 - Email: Reach out via GitHub profile
 
 ---
 
-### Live Stats
-<p align="center">
-  <a href="./docs/metrics.svg">
-    <img
-      src="./docs/metrics.svg"
-      alt="Live metrics graph"
-      width="720"
-    />
-  </a>
-  <br/>
-  <sub>Generated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
-</p>
+### 📉 Profile Views & Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/N-Aymane?style=flat&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/N-Aymane?style=flat&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=N-Aymane&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/N-Aymane?style=for-the-badge&label=Followers&color=7aa2f7" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/N-Aymane?style=for-the-badge&label=Total+Stars&color=7aa2f7" alt="Stars" />
 </p>
+
+<details>
+  <summary>📊 More Detailed Stats</summary>
+  <br/>
+  <div align="center">
+    
+  <!-- Detailed Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&include_all_commits=true&count_private=true&line_height=24" alt="Detailed Stats" />
+    
+  </div>
+</details>
+
+<details>
+  <summary>🔥 WakaTime Stats (Si configuré)</summary>
+  <br/>
+  <div align="center">
+    
+  <!-- WakaTime Stats - Décommentez si vous avez WakaTime configuré -->
+  <!-- <img src="https://github-readme-stats. vercel.app/api/wakatime?username=N-Aymane&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7" alt="WakaTime Stats" /> -->
+  <p><em>Configurez WakaTime pour voir vos statistiques de codage en temps réel. </em></p>
+    
+  </div>
+</details>
 
 <details>
   <summary>System status</summary>
   <p>
     <img src="https://img.shields.io/badge/Availability-Online-1a1f2b?style=flat&logo=icloud&logoColor=7aa2f7" alt="Availability" />
-    <img src="https://img.shields.io/badge/Last%20Updated-2025--12--07-1a1f2b?style=flat&logo=github&logoColor=7aa2f7" alt="Last updated" />
+    <img src="https://img.shields.io/badge/Last%20Updated-2026--01--05-1a1f2b?style=flat&logo=github&logoColor=7aa2f7" alt="Last updated" />
   </p>
 </details>
