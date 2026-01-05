@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/N-Aymane?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/Projects-View-1a1f2b?style=flat&logo=github&logoColor=e6e8ee"></a>
+  <a href="https://github.com/N-Aymane? tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/Projects-View-1a1f2b?style=flat&logo=github&logoColor=e6e8ee"></a>
   <a href="#skills"><img alt="Skills" src="https://img.shields.io/badge/Skills-Overview-1a1f2b?style=flat&logo=buffer&logoColor=e6e8ee"></a>
   <a href="#principles"><img alt="Principles" src="https://img.shields.io/badge/Principles-Read-1a1f2b?style=flat&logo=readthedocs&logoColor=e6e8ee"></a>
   <a href="#contact"><img alt="Contact" src="https://img.shields.io/badge/Contact-Get%20in%20touch-1a1f2b?style=flat&logo=minutemailer&logoColor=e6e8ee"></a>
@@ -24,7 +24,7 @@
 ---
 
 ### About
-I build modern, lean software with respect for the user and the team maintaining it. My priorities: 
+I build modern, lean software with respect for the user and the team maintaining it.  My priorities: 
 
 - Calm, readable code with clear boundaries
 - Accessibility by default (contrast, keyboard nav, semantics)
@@ -37,18 +37,15 @@ I build modern, lean software with respect for the user and the team maintaining
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats. vercel.app/api?username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&icon_color=7aa2f7&text_color=e6e8ee&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&icon_color=7aa2f7&text_color=e6e8ee&count_private=true" alt="GitHub Stats" height="180" />
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats. vercel.app/api/top-langs/? username=N-Aymane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&text_color=e6e8ee&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=N-Aymane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&text_color=e6e8ee&langs_count=8" alt="Top Languages" height="180" />
   
 </div>
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/? user=N-Aymane&theme=tokyonight&hide_border=true&background=0f1115&stroke=7aa2f7&ring=7aa2f7&fire=ff6b6b&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp. com/? user=N-Aymane&theme=tokyonight&hide_border=true&background=0f1115&stroke=7aa2f7&ring=7aa2f7&fire=ff6b6b&currStreakLabel=7aa2f7" alt="GitHub Streak" />
   
 </div>
 
@@ -58,8 +55,7 @@ I build modern, lean software with respect for the user and the team maintaining
 
 <div align="center">
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph. vercel.app/graph?username=N-Aymane&theme=tokyo-night&hide_border=true&bg_color=0f1115&color=7aa2f7&line=7aa2f7&point=e6e8ee&area=true&area_color=7aa2f7" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-Aymane&theme=tokyo-night&hide_border=true&bg_color=0f1115&color=7aa2f7&line=7aa2f7&point=e6e8ee&area=true&area_color=7aa2f7" alt="Contribution Graph" width="100%" />
   
 </div>
 
@@ -78,9 +74,9 @@ I build modern, lean software with respect for the user and the team maintaining
 ### Skills
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E? logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8? logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node. js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next. js&logoColor=white" alt="Next.js" />
@@ -97,9 +93,9 @@ I build modern, lean software with respect for the user and the team maintaining
 ---
 
 ### Highlights
-- Designed small, composable services with strong typing and minimal debt.
-- Cut build times and bundle sizes via disciplined dependencies and profiling. 
-- Delivered accessible UIs: semantic HTML, focus management, screen reader support. 
+- Designed small, composable services with strong typing and minimal debt. 
+- Cut build times and bundle sizes via disciplined dependencies and profiling.
+- Delivered accessible UIs:  semantic HTML, focus management, screen reader support. 
 
 ---
 
@@ -108,7 +104,7 @@ I build modern, lean software with respect for the user and the team maintaining
 - Static site generator focused on content and performance
 - Reusable component library emphasizing UX consistency
 
-→ Explore more in my [Projects](https://github.com/N-Aymane?tab=repositories).
+→ Explore more in my [Projects](https://github.com/N-Aymane? tab=repositories).
 
 ---
 
@@ -121,8 +117,8 @@ I build modern, lean software with respect for the user and the team maintaining
 ---
 
 ### Contact
-- GitHub:  [@N-Aymane](https://github.com/N-Aymane)
-- Email: Reach out via GitHub profile
+- GitHub: [@N-Aymane](https://github.com/N-Aymane)
+- Email:  Reach out via GitHub profile
 
 ---
 
@@ -131,7 +127,7 @@ I build modern, lean software with respect for the user and the team maintaining
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=N-Aymane&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/N-Aymane?style=for-the-badge&label=Followers&color=7aa2f7" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/N-Aymane?style=for-the-badge&label=Total+Stars&color=7aa2f7" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/N-Aymane? style=for-the-badge&label=Total+Stars&color=7aa2f7" alt="Stars" />
 </p>
 
 <details>
@@ -139,20 +135,7 @@ I build modern, lean software with respect for the user and the team maintaining
   <br/>
   <div align="center">
     
-  <!-- Detailed Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&include_all_commits=true&count_private=true&line_height=24" alt="Detailed Stats" />
-    
-  </div>
-</details>
-
-<details>
-  <summary>🔥 WakaTime Stats (Si configuré)</summary>
-  <br/>
-  <div align="center">
-    
-  <!-- WakaTime Stats - Décommentez si vous avez WakaTime configuré -->
-  <!-- <img src="https://github-readme-stats. vercel.app/api/wakatime?username=N-Aymane&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7" alt="WakaTime Stats" /> -->
-  <p><em>Configurez WakaTime pour voir vos statistiques de codage en temps réel. </em></p>
+  <img src="https://github-readme-stats.vercel.app/api? username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&include_all_commits=true&count_private=true&line_height=24" alt="Detailed Stats" />
     
   </div>
 </details>
