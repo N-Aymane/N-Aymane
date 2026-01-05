@@ -1,6 +1,6 @@
 <!--
   Modern, sober GitHub Profile README for N-Aymane
-  Balanced typography, accessible contrast, subtle iconography.  
+  Balanced typography, accessible contrast, subtle iconography. 
 -->
 
 <!-- Banner / Hero -->
@@ -37,10 +37,10 @@ I build modern, lean software with respect for the user and the team maintaining
 
 <div align="center">
   <a href="https://github.com/N-Aymane">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel. app/api? username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&icon_color=7aa2f7&text_color=e6e8ee&count_private=true" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&icon_color=7aa2f7&text_color=e6e8ee&count_private=true" alt="GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/N-Aymane">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=N-Aymane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&text_color=e6e8ee&langs_count=8" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats-sigma-five. vercel.app/api/top-langs/?username=N-Aymane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&text_color=e6e8ee&langs_count=8" alt="Top Languages" height="180" />
   </a>
 </div>
 
@@ -63,7 +63,7 @@ I build modern, lean software with respect for the user and the team maintaining
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=N-Aymane&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy. vercel.app/? username=N-Aymane&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -90,9 +90,9 @@ I build modern, lean software with respect for the user and the team maintaining
 ---
 
 ### Highlights
-- Designed small, composable services with strong typing and minimal debt.
+- Designed small, composable services with strong typing and minimal debt. 
 - Cut build times and bundle sizes via disciplined dependencies and profiling.
-- Delivered accessible UIs:  semantic HTML, focus management, screen reader support. 
+- Delivered accessible UIs:  semantic HTML, focus management, screen reader support.
 
 ---
 
@@ -115,7 +115,7 @@ I build modern, lean software with respect for the user and the team maintaining
 
 ### Contact
 - GitHub:  [@N-Aymane](https://github.com/N-Aymane)
-- Email:  Reach out via GitHub profile
+- Email: Reach out via GitHub profile
 
 ---
 
@@ -124,6 +124,7 @@ I build modern, lean software with respect for the user and the team maintaining
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=N-Aymane&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/N-Aymane?style=for-the-badge&label=Followers&color=7aa2f7" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/N-Aymane? style=for-the-badge&label=Total+Stars&color=7aa2f7" alt="Stars" />
 </p>
 
 <details>
