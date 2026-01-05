@@ -24,7 +24,7 @@
 ---
 
 ### About
-I build modern, lean software with respect for the user and the team maintaining it.  My priorities: 
+I build modern, lean software with respect for the user and the team maintaining it. My priorities: 
 
 - Calm, readable code with clear boundaries
 - Accessibility by default (contrast, keyboard nav, semantics)
@@ -36,17 +36,18 @@ I build modern, lean software with respect for the user and the team maintaining
 ### 📊 GitHub Statistics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&icon_color=7aa2f7&text_color=e6e8ee&count_private=true" alt="GitHub Stats" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=N-Aymane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&text_color=e6e8ee&langs_count=8" alt="Top Languages" height="180" />
-  
+  <a href="https://github.com/N-Aymane">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&icon_color=7aa2f7&text_color=e6e8ee&count_private=true" alt="GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/N-Aymane">
+    <img src="https://github-readme-stats-sigma-five. vercel.app/api/top-langs/?username=N-Aymane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&text_color=e6e8ee&langs_count=8" alt="Top Languages" height="180" />
+  </a>
 </div>
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp. com/? user=N-Aymane&theme=tokyonight&hide_border=true&background=0f1115&stroke=7aa2f7&ring=7aa2f7&fire=ff6b6b&currStreakLabel=7aa2f7" alt="GitHub Streak" />
-  
+  <a href="https://github.com/N-Aymane">
+    <img src="https://streak-stats.demolab.com? user=N-Aymane&theme=tokyonight&hide_border=true&background=0f1115&stroke=7aa2f7&ring=7aa2f7&fire=ff6b6b&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -54,9 +55,7 @@ I build modern, lean software with respect for the user and the team maintaining
 ### 📈 Contribution Graph
 
 <div align="center">
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-Aymane&theme=tokyo-night&hide_border=true&bg_color=0f1115&color=7aa2f7&line=7aa2f7&point=e6e8ee&area=true&area_color=7aa2f7" alt="Contribution Graph" width="100%" />
-  
 </div>
 
 ---
@@ -64,9 +63,7 @@ I build modern, lean software with respect for the user and the team maintaining
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/? username=N-Aymane&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-  
+  <img src="https://github-profile-trophy. vercel.app/? username=N-Aymane&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -83,7 +80,7 @@ I build modern, lean software with respect for the user and the team maintaining
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker-2496ED? logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
@@ -95,7 +92,7 @@ I build modern, lean software with respect for the user and the team maintaining
 ### Highlights
 - Designed small, composable services with strong typing and minimal debt. 
 - Cut build times and bundle sizes via disciplined dependencies and profiling.
-- Delivered accessible UIs:  semantic HTML, focus management, screen reader support. 
+- Delivered accessible UIs:  semantic HTML, focus management, screen reader support.
 
 ---
 
@@ -117,8 +114,8 @@ I build modern, lean software with respect for the user and the team maintaining
 ---
 
 ### Contact
-- GitHub: [@N-Aymane](https://github.com/N-Aymane)
-- Email:  Reach out via GitHub profile
+- GitHub:  [@N-Aymane](https://github.com/N-Aymane)
+- Email: Reach out via GitHub profile
 
 ---
 
@@ -129,16 +126,6 @@ I build modern, lean software with respect for the user and the team maintaining
   <img src="https://img.shields.io/github/followers/N-Aymane?style=for-the-badge&label=Followers&color=7aa2f7" alt="Followers" />
   <img src="https://img.shields.io/github/stars/N-Aymane? style=for-the-badge&label=Total+Stars&color=7aa2f7" alt="Stars" />
 </p>
-
-<details>
-  <summary>📊 More Detailed Stats</summary>
-  <br/>
-  <div align="center">
-    
-  <img src="https://github-readme-stats.vercel.app/api? username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115&title_color=7aa2f7&include_all_commits=true&count_private=true&line_height=24" alt="Detailed Stats" />
-    
-  </div>
-</details>
 
 <details>
   <summary>System status</summary>
