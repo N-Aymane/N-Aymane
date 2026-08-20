@@ -60,27 +60,10 @@ class Developer {
 
 <div align="center">
 
-🔭 Currently building **AI-powered side projects**  
+🔭 Currently building **AI-powered projects**  
 🧠 Learning **Deep Learning & Computer Vision**  
-⚓ Fun fact: I firmly believe **Luffy will be the King of Pirates**  
-🎯 2026 Goals: Contribute more to **Open Source** & build something that gets **1000+ stars ⭐**  
-💬 Ask me about **React, Next.js, Node.js, or why One Piece > everything**
 
 </div>
-
----
-
-### 🎲 Fun Facts
-
-| 🤪 Fact | 💬 Details |
-| :--- | :--- |
-| ⏱️ Coding since | I could say "Hello World" |
-| ☕ Coffee consumed | `Integer.MAX_VALUE` cups |
-| 🪲 Bugs created | More than features, honestly |
-| 📚 Stack Overflow visits | Yes |
-| 🎵 Codes best with | Lo-fi beats & anime OSTs |
-| ❇️ Favorite anime | One Piece (not debatable) |
-| 💤 Sleep schedule | `cron: */0 * * * *` (never runs) |
 
 ---
 
