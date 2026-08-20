@@ -86,16 +86,16 @@ class Developer {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="175" />
-  <img src="https://streak-stats.demolab.com?user=N-Aymane&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="175" />
+  <img src="https://github-readme-stats-anik.vercel.app/api?username=N-Aymane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats-coderanik.vercel.app/?user=N-Aymane&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=N-Aymane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=N-Aymane&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-Aymane&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N-Aymane&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="170" />
 </div>
 
 ---
@@ -103,7 +103,9 @@ class Developer {
 ### 📈 Contribution Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-Aymane&theme=tokyonight" width="90%" />
+  
+  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N-Aymane&theme=tokyonight)
+  
 </div>
 
 ---
