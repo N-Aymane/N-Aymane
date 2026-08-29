@@ -122,7 +122,10 @@ class Developer {
 
 ### 👾 Contribution Invaders
 <div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=N-Aymane&theme=tokyonight&no-bg=true&margin-w=10)
-
+  <h3>GitHub Achievements</h3>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60" alt="Starstruck" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" alt="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" alt="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60" alt="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" alt="YOLO" />
 </div>
