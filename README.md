@@ -121,7 +121,8 @@ class Developer {
 ---
 
 ### 👾 Contribution Invaders
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=N-Aymane&theme=tokyonight&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=N-Aymane&theme=tokyonight&no-bg=true&margin-w=10)
+
 </div>
