@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="./assets/pixel-terminal.svg?v=2" width="100%" alt="Pixel terminal: Behind the code — Aymane, full stack developer in Morocco, building AI-powered web apps and exploring deep learning, computer vision and system design. My toolkit — React, Next.js, TypeScript, Tailwind, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, Python, PyTorch, TensorFlow, OpenCV, Docker and Linux." />
+<img src="https://raw.githubusercontent.com/N-Aymane/N-Aymane/f1738234084055a096c640299f9bf74af30dcaaf/assets/pixel-terminal.svg" width="100%" alt="Pixel terminal: Behind the code — Aymane, full stack developer in Morocco, building AI-powered web apps and exploring deep learning, computer vision and system design. My toolkit — React, Next.js, TypeScript, Tailwind, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, Python, PyTorch, TensorFlow, OpenCV, Docker and Linux." />
 
 <details>
 <summary><code>[+] OPEN FULL LOADOUT / TEXT MODE</code></summary>
