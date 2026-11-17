@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./assets/aymane-orbit.svg" width="100%" alt="Aymane — Full Stack Developer. Animated floating 3D crystal with cyan and violet orbital lights." />
+  <img src="https://raw.githubusercontent.com/N-Aymane/N-Aymane/9781e5b87c098e4ef8fd385d799b70b1d681501e/assets/aymane-orbit.svg" width="100%" alt="Aymane — Data &amp; AI Engineer. Animated floating 3D crystal with cyan and violet orbital lights." />
 
-  <p><strong>Full Stack Developer · AI / ML Enthusiast · Morocco</strong></p>
-  <p>I build web experiences and explore intelligent systems.<br/>From thoughtful interfaces to the models behind them.</p>
+  <p><strong>Data &amp; AI Engineer · Deep Learning · Computer Vision · Morocco</strong></p>
+  <p>I turn data into understanding and build intelligent systems.<br/>Python · SQL · Machine Learning · Data Engineering</p>
 
   <a href="https://github.com/N-Aymane?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-111B30?style=for-the-badge&amp;logo=github&amp;logoColor=7BF5E4" alt="Explore my repositories" /></a>
   <a href="https://github.com/N-Aymane?tab=stars"><img src="https://img.shields.io/badge/WHAT_INSPIRES_ME-111B30?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=B3A0FF" alt="Explore my starred repositories" /></a>
@@ -10,14 +10,14 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/N-Aymane/N-Aymane/f1738234084055a096c640299f9bf74af30dcaaf/assets/pixel-terminal.svg" width="100%" alt="Pixel terminal: Behind the code — Aymane, full stack developer in Morocco, building AI-powered web apps and exploring deep learning, computer vision and system design. My toolkit — React, Next.js, TypeScript, Tailwind, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, Python, PyTorch, TensorFlow, OpenCV, Docker and Linux." />
+<img src="https://raw.githubusercontent.com/N-Aymane/N-Aymane/9781e5b87c098e4ef8fd385d799b70b1d681501e/assets/pixel-terminal.svg" width="100%" alt="Data and AI engineering: Behind the code — Aymane, Data and AI Engineer in Morocco, building AI-powered web apps and exploring deep learning, computer vision and system design. My toolkit — React, Next.js, TypeScript, Tailwind, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, Python, PyTorch, TensorFlow, OpenCV, Docker and Linux." />
 
 <details>
 <summary><code>[+] OPEN FULL LOADOUT / TEXT MODE</code></summary>
 
 **Behind the code:** Aymane · Morocco · Full stack development & AI. Building AI-powered web apps; exploring deep learning, computer vision and system design. Beyond code: photography, travelling, open source and anime.
 
-**Interface:** React · Next.js · TypeScript · Tailwind CSS · HTML · CSS  
+**Application development:** React · Next.js · TypeScript · Tailwind CSS · HTML · CSS  
 **Backend & data:** Node.js · Express · FastAPI · PostgreSQL · MongoDB · Redis  
 **AI & infrastructure:** Python · PyTorch · TensorFlow · OpenCV · Docker · Linux  
 **Extended toolkit:** JavaScript · Java · C++ · C · MySQL · Supabase · Prisma · Kubernetes · Nginx · Postman · Git · GitHub · VS Code · Figma · Notion · Vercel · Firebase
