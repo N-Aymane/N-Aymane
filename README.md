@@ -1,85 +1,51 @@
-<!-- Banner / Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,14,18&height=200&section=header&text=Hey%20there,%20I'm%20Aymane%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=I%20turn%20caffeine%20into%20code%20☕%20→%20💻&descSize=18&descAlignY=68" width="100%" />
+  <img src="./assets/aymane-orbit.svg" width="100%" alt="Aymane — Full Stack Developer. Animated floating 3D crystal with cyan and violet orbital lights." />
 
-  <p align="center">
-    🚀 <strong>Full Stack Developer | AI/ML Enthusiast | One Piece Theorist</strong>
-  </p>
+  <p><strong>Full Stack Developer · AI / ML Enthusiast · Morocco</strong></p>
+  <p>I build web experiences and explore intelligent systems.<br/>From thoughtful interfaces to the models behind them.</p>
 
-  <h2 align="center"><code>while(alive) { eat() }</code></h2>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=N-Aymane&label=PROFILE+STALKERS&color=0e75c9&style=flat-square" alt="Profile Views" />
-  </p>
-
-  <p align="center">
-    <strong>🌐 Connect With Me</strong><br/>
-    <a href="https://linkedin.com" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com" target="_blank">
-      <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://stackoverflow.com" target="_blank">
-      <img src="https://img.shields.io/badge/STACK_OVERFLOW-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <a href="https://github.com/N-Aymane?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-111B30?style=for-the-badge&amp;logo=github&amp;logoColor=7BF5E4" alt="Explore my repositories" /></a>
+  <a href="https://github.com/N-Aymane?tab=stars"><img src="https://img.shields.io/badge/WHAT_INSPIRES_ME-111B30?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=B3A0FF" alt="Explore my starred repositories" /></a>
 </div>
 
----
+<br/>
 
-### 🌟 About Me
+## 01 / Behind the code
 
-```javascript
-class Developer {
-  name = "Aymane";
-  location = "Morocco 🇲🇦";
-  currentFocus = "Deep Learning";
-  pronouns = "he/him";
-  exploring = ["AI/ML", "Computer Vision", "System Design"];
-  hobbies = ["Photography 📷", "Travelling 🌍", "Open Source", "Anime 🍥"];
-  contact = "your-email@example.com";
-  dailyRoutine = ["☕ Coffee", "💻 Code", "🪲 Debug", "🔄 Repeat"];
+I'm **Aymane**, a developer based in **Morocco**, working across full stack development and AI. I enjoy connecting clean interfaces, reliable backends, and ideas that make me learn something new.
 
-  funFact(): string {
-    return "I mass deploy bugs to production on fridays 🚀";
-  }
+| Building | Exploring | Beyond the editor |
+| :--- | :--- | :--- |
+| AI-powered projects | Deep learning & computer vision | Photography & travelling |
+| Web apps with React & Node.js | System design | Open source & anime |
 
-  currentStatus(): string {
-    return "Somewhere between 'it works!' and 'why does it work?' 🫠";
-  }
-}
-```
+<br/>
 
----
+## 02 / My toolkit
 
-### ⚡ What I'm Up To
+**Interfaces** &nbsp; / &nbsp; React · Next.js · TypeScript · Tailwind CSS
+
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&amp;theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS, HTML and CSS" /></p>
+
+**Services & data** &nbsp; / &nbsp; Node.js · Express · FastAPI · PostgreSQL · MongoDB · Redis
+
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&amp;theme=dark" alt="Node.js, Express, FastAPI, PostgreSQL, MongoDB and Redis" /></p>
+
+**Intelligence & infrastructure** &nbsp; / &nbsp; Python · PyTorch · TensorFlow · OpenCV · Docker · Linux
+
+<p><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,docker,linux&amp;theme=dark" alt="Python, PyTorch, TensorFlow, OpenCV, Docker and Linux" /></p>
+
+<details>
+<summary><strong>More tools I work with</strong></summary>
+<br/>
+JavaScript · Java · C++ · C · MySQL · Supabase · Prisma · Kubernetes · Nginx · Postman · Git · GitHub · VS Code · Figma · Notion · Vercel · Firebase
+</details>
+
+<br/>
 
 <div align="center">
-
-🔭 Currently building **AI-powered projects**  
-🧠 Learning **Deep Learning & Computer Vision**  
-
+  <sub>CURIOUS BY DEFAULT. ALWAYS BUILDING. ALWAYS LEARNING.</sub>
 </div>
-
----
-
-### 💻 Tech Arsenal
-
-<p align="center">
-  <em>Fullstack Engineer · React + Node Specialist · AI/ML Enthusiast</em>
-</p>
-
-| Languages | Frontend | Backend | Databases |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,html,css&perline=4" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=2" /> | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,prisma,redis&perline=3" /> |
-
-| AI / ML | DevOps | Tools & Editors | Deployment |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,postman&perline=3" /> | <img src="https://skillicons.dev/icons?i=vscode,figma,notion,git,github&perline=3" /> | <img src="https://skillicons.dev/icons?i=vercel,firebase&perline=2" /> |
 
 ---
 
