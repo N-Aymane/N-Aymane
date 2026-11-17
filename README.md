@@ -10,42 +10,19 @@
 
 <br/>
 
-## 01 / Behind the code
-
-I'm **Aymane**, a developer based in **Morocco**, working across full stack development and AI. I enjoy connecting clean interfaces, reliable backends, and ideas that make me learn something new.
-
-| Building | Exploring | Beyond the editor |
-| :--- | :--- | :--- |
-| AI-powered projects | Deep learning & computer vision | Photography & travelling |
-| Web apps with React & Node.js | System design | Open source & anime |
-
-<br/>
-
-## 02 / My toolkit
-
-**Interfaces** &nbsp; / &nbsp; React · Next.js · TypeScript · Tailwind CSS
-
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&amp;theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS, HTML and CSS" /></p>
-
-**Services & data** &nbsp; / &nbsp; Node.js · Express · FastAPI · PostgreSQL · MongoDB · Redis
-
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&amp;theme=dark" alt="Node.js, Express, FastAPI, PostgreSQL, MongoDB and Redis" /></p>
-
-**Intelligence & infrastructure** &nbsp; / &nbsp; Python · PyTorch · TensorFlow · OpenCV · Docker · Linux
-
-<p><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,docker,linux&amp;theme=dark" alt="Python, PyTorch, TensorFlow, OpenCV, Docker and Linux" /></p>
+<img src="./assets/pixel-terminal.svg" width="100%" alt="Pixel terminal: Behind the code — Aymane, full stack developer in Morocco, building AI-powered web apps and exploring deep learning, computer vision and system design. My toolkit — React, Next.js, TypeScript, Tailwind, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Redis, Python, PyTorch, TensorFlow, OpenCV, Docker and Linux." />
 
 <details>
-<summary><strong>More tools I work with</strong></summary>
-<br/>
-JavaScript · Java · C++ · C · MySQL · Supabase · Prisma · Kubernetes · Nginx · Postman · Git · GitHub · VS Code · Figma · Notion · Vercel · Firebase
+<summary><code>[+] OPEN FULL LOADOUT / TEXT MODE</code></summary>
+
+**Behind the code:** Aymane · Morocco · Full stack development & AI. Building AI-powered web apps; exploring deep learning, computer vision and system design. Beyond code: photography, travelling, open source and anime.
+
+**Interface:** React · Next.js · TypeScript · Tailwind CSS · HTML · CSS  
+**Backend & data:** Node.js · Express · FastAPI · PostgreSQL · MongoDB · Redis  
+**AI & infrastructure:** Python · PyTorch · TensorFlow · OpenCV · Docker · Linux  
+**Extended toolkit:** JavaScript · Java · C++ · C · MySQL · Supabase · Prisma · Kubernetes · Nginx · Postman · Git · GitHub · VS Code · Figma · Notion · Vercel · Firebase
+
 </details>
-
-<br/>
-
-<div align="center">
-  <sub>CURIOUS BY DEFAULT. ALWAYS BUILDING. ALWAYS LEARNING.</sub>
-</div>
 
 ---
 
